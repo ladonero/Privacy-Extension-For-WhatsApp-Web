@@ -118,7 +118,7 @@ div.xkhd6sd._ajxt > ._ajxu > div:hover /* business phone number in details info 
 div._ak1d > div:first-child > div:first-child > :not(:first-child):hover /* user/group name in starred message list */,
 
 /* profilePic */
-div[role="none"] ._ak8h:hover /* user/group profile pic in message list */,
+div[role="gridcell"] ._ak8h:hover /* user/group profile pic in message list */,
 div[role="button"][class=""] ._ak8h:hover /* user/group profile pic in details list and popup list */,
 div[role="dialog"] ._ak8h:hover /* user/group profile pic in details list and popup list */,
 header > div[role="button"]:first-child > div:hover /* user/group profile pic at the top of chat panel */,
